@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matveichykau Aliaksandr <aliaksandr.matveichykau@gmail.com>
 
 # THANKS
 
