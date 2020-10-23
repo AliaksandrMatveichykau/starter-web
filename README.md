@@ -9,4 +9,4 @@ As stated above, the main purpose is to provide simple examples for Git training
 ##How To Contribute
 Please fork that repository and then issue pull request for review
 ###Copyright
-Copyright Git Training 2020
+All right reserved 2020
